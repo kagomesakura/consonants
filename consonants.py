@@ -1,6 +1,6 @@
 
 # purposely have 8 consonants, half upper, half lower. on run answer comes back 4, its counting only lowerself.
-# need to understand how to .upper .lower
+# need to understand how to .upper .lower case
 
 c = "TH th dg DG"
 
